@@ -54,13 +54,13 @@ git clone <repo-url>
 cd 3d-avatar-viewer  
 flutter pub get  
 flutter run   
-
- ## Usage
+---
+## Usage
 O3DViewer(  
-    src: 'https://models.readyplayer.me/690cbf7fd28f9f8e507ec593.glb',  
-    enableRotate: true,  
-    enableZoom: true,  
-    enablePan: true,  
+    &nbsp;&nbsp;&nbsp;&nbsp;src: 'https://models.readyplayer.me/690cbf7fd28f9f8e507ec593.glb',  
+    &nbsp;&nbsp;&nbsp;&nbsp;enableRotate: true,  
+    &nbsp;&nbsp;&nbsp;&nbsp;enableZoom: true,  
+    &nbsp;&nbsp;&nbsp;&nbsp;enablePan: true,  
 )
 
 
