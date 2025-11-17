@@ -51,7 +51,7 @@ https://models.readyplayer.me/690cbf7fd28f9f8e507ec593.glb
 git clone <repo-url>
 cd 3d-avatar-viewer
 flutter pub get
-flutter run ```
+flutter run 
 
 ```## Usage
 O3DViewer(
